@@ -1,14 +1,7 @@
-# Rick and Morty API
+# Rick and Morty API and App de consumo
 Um projeto amostra Full stack
 
-## Desenvolvimento do Back-End:
-Java Spring Boot
-
-## Desenvolvimento do Front-End:
-React JS
-PrimeFaces
-
-### Front-End - Consumo da API com base no React, link de acesso:
+## Front-End - Consumo da API com base no React, link de acesso:
 ```
 http://rickandmortyapp.s3-website-us-east-1.amazonaws.com/
 ```
@@ -36,7 +29,7 @@ http://107.21.11.22:8085/episode/2
 ```
 
 
-### Fonte API Rick and Morty
+### Fonte Oficial API Rick and Morty
 ```
 https://rickandmortyapi.com/documentation
 ```
